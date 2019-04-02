@@ -1,3 +1,3 @@
 # Coursera
 
-This is a test, created a Github-account to start uploading my course progress in a machine learning specialization on Coursera
+Page dedicated to upload my scripts written in several Coursera Data Science Courses
